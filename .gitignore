@@ -1,0 +1,14 @@
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+# Compiled output
+out/
+bin/
+*.class
+# Large media and macOS
+*.mov
+*.mp4
+.DS_Store
